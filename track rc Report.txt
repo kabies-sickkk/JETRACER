@@ -1,0 +1,271 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: track rc.ai
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: feet
+Artboard Dimensions: 10 ft x 5 ft
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Bahnschrift SemiBold SemiCondensed (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+D:\taive\textures\asphalt_track_diff_2k.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 12288K, 2048 by 2048 pixels
+Dimensions: 4712.316 by 4624.232 points 
+Resolution: 31.292 by 31.888 pixels per inch
+
+
+D:\taive\textures\asphalt_track_diff_2k.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 12288K, 2048 by 2048 pixels
+Dimensions: 4712.316 by 4624.232 points 
+Resolution: 31.292 by 31.888 pixels per inch
+
+
+D:\taive\imgonline-com-ua-TextureSeamless-ugm3eTseCcIUV6t.jpg
+Type: Grayscale
+Bits per Pixel: 9
+Channels: 1
+Size: 1951K, 1732 by 1154 pixels
+Dimensions: 3103.541 by 2070.344 points 
+Resolution: 40.181 by 40.132 pixels per inch
+
+
+D:\taive\imgonline-com-ua-TextureSeamless-ugm3eTseCcIUV6t.jpg
+Type: Grayscale
+Bits per Pixel: 9
+Channels: 1
+Size: 1951K, 1732 by 1154 pixels
+Dimensions: 3103.541 by 2070.344 points 
+Resolution: 40.181 by 40.132 pixels per inch
+
+
+D:\taive\imgonline-com-ua-TextureSeamless-ugm3eTseCcIUV6t.jpg
+Type: Grayscale
+Bits per Pixel: 9
+Channels: 1
+Size: 1951K, 1732 by 1154 pixels
+Dimensions: 3103.541 by 2070.344 points 
+Resolution: 40.181 by 40.132 pixels per inch
+
+
+D:\taive\imgonline-com-ua-TextureSeamless-ugm3eTseCcIUV6t.jpg
+Type: Grayscale
+Bits per Pixel: 9
+Channels: 1
+Size: 1951K, 1732 by 1154 pixels
+Dimensions: 3103.541 by 2070.344 points 
+Resolution: 40.181 by 40.132 pixels per inch
+
+
+D:\taive\imgonline-com-ua-TextureSeamless-ugm3eTseCcIUV6t.jpg
+Type: Grayscale
+Bits per Pixel: 9
+Channels: 1
+Size: 1951K, 1732 by 1154 pixels
+Dimensions: 3103.541 by 2070.344 points 
+Resolution: 40.181 by 40.132 pixels per inch
+
+
+D:\taive\imgonline-com-ua-TextureSeamless-ugm3eTseCcIUV6t.jpg
+Type: Grayscale
+Bits per Pixel: 9
+Channels: 1
+Size: 1951K, 1732 by 1154 pixels
+Dimensions: 3103.541 by 2070.344 points 
+Resolution: 40.181 by 40.132 pixels per inch
+
+
+D:\taive\imgonline-com-ua-TextureSeamless-ugm3eTseCcIUV6t.jpg
+Type: Grayscale
+Bits per Pixel: 9
+Channels: 1
+Size: 1951K, 1732 by 1154 pixels
+Dimensions: 3103.541 by 2070.344 points 
+Resolution: 40.181 by 40.132 pixels per inch
+
+
+D:\taive\imgonline-com-ua-TextureSeamless-ugm3eTseCcIUV6t.jpg
+Type: Grayscale
+Bits per Pixel: 9
+Channels: 1
+Size: 1951K, 1732 by 1154 pixels
+Dimensions: 3103.541 by 2070.344 points 
+Resolution: 40.181 by 40.132 pixels per inch
+
+
+D:\taive\imgonline-com-ua-TextureSeamless-ugm3eTseCcIUV6t.jpg
+Type: Grayscale
+Bits per Pixel: 9
+Channels: 1
+Size: 1951K, 1732 by 1154 pixels
+Dimensions: 3103.541 by 2070.344 points 
+Resolution: 40.181 by 40.132 pixels per inch
+
+
+D:\taive\imgonline-com-ua-TextureSeamless-ugm3eTseCcIUV6t.jpg
+Type: Grayscale
+Bits per Pixel: 9
+Channels: 1
+Size: 1951K, 1732 by 1154 pixels
+Dimensions: 3103.541 by 2070.344 points 
+Resolution: 40.181 by 40.132 pixels per inch
+
+
+D:\taive\imgonline-com-ua-TextureSeamless-ugm3eTseCcIUV6t.jpg
+Type: Grayscale
+Bits per Pixel: 9
+Channels: 1
+Size: 1951K, 1732 by 1154 pixels
+Dimensions: 3103.541 by 2070.344 points 
+Resolution: 40.181 by 40.132 pixels per inch
+
+
+D:\taive\fresh-green-grass-texture.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 70312K, 6000 by 4000 pixels
+Dimensions: 715.598 by 477.065 points 
+Resolution: 603.691 by 603.691 pixels per inch
+
+
+D:\taive\fresh-green-grass-texture.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 70312K, 6000 by 4000 pixels
+Dimensions: 1055.886 by 703.924 points 
+Resolution: 409.135 by 409.135 pixels per inch
+
+
+D:\taive\imgonline-com-ua-TextureSeamless-ugm3eTseCcIUV6t.jpg
+Type: Grayscale
+Bits per Pixel: 9
+Channels: 1
+Size: 1951K, 1732 by 1154 pixels
+Dimensions: 1732 by 1154 points 
+Resolution: 72 by 72 pixels per inch
+
+
+D:\taive\imgonline-com-ua-TextureSeamless-ugm3eTseCcIUV6t.jpg
+Type: Grayscale
+Bits per Pixel: 9
+Channels: 1
+Size: 1951K, 1732 by 1154 pixels
+Dimensions: 1732 by 1154 points 
+Resolution: 72 by 72 pixels per inch
+
+
+D:\taive\imgonline-com-ua-TextureSeamless-ugm3eTseCcIUV6t.jpg
+Type: Grayscale
+Bits per Pixel: 9
+Channels: 1
+Size: 1951K, 1732 by 1154 pixels
+Dimensions: 1732 by 1154 points 
+Resolution: 72 by 72 pixels per inch
+
+
+D:\taive\imgonline-com-ua-TextureSeamless-ugm3eTseCcIUV6t.jpg
+Type: Grayscale
+Bits per Pixel: 9
+Channels: 1
+Size: 1951K, 1732 by 1154 pixels
+Dimensions: 1732 by 1154 points 
+Resolution: 72 by 72 pixels per inch
+
+
+D:\taive\fresh-green-grass-texture.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 70312K, 6000 by 4000 pixels
+Dimensions: 1800 by 1200 points 
+Resolution: 240 by 240 pixels per inch
+
+
+D:\taive\MINI RC DRIFT VIETNAM (1).png
+Type: Transparent CMYK
+Bits per Pixel: 40
+Channels: 5
+Size: 4882K, 1000 by 1000 pixels
+Dimensions: 161.913 by 161.913 points 
+Resolution: 444.683 by 444.683 pixels per inch
+
+
+D:\taive\slightly-blotted-clean-pale-stucco-pattern.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 41570K, 4496 by 3156 pixels
+Dimensions: 3104.314 by 2179.096 points 
+Resolution: 104.278 by 104.278 pixels per inch
+
+
+D:\taive\slightly-blotted-clean-pale-stucco-pattern.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 41570K, 4496 by 3156 pixels
+Dimensions: 3104.314 by 2179.096 points 
+Resolution: 104.278 by 104.278 pixels per inch
+
+
+D:\taive\brown-background-water-reflection-texture.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 92261K, 6873 by 4582 pixels
+Dimensions: 4318.771 by 2879.18 points 
+Resolution: 114.583 by 114.583 pixels per inch
+
+
+D:\taive\brown-background-water-reflection-texture.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 92261K, 6873 by 4582 pixels
+Dimensions: 4318.771 by 2879.18 points 
+Resolution: 114.583 by 114.583 pixels per inch
+
+
+D:\taive\facebook-logo-facebook-icon-transparent-free-png.png
+Type: Transparent CMYK
+Bits per Pixel: 40
+Channels: 5
+Size: 4689K, 980 by 980 pixels
+Dimensions: 252.001 by 252.001 points 
+Resolution: 279.999 by 279.999 pixels per inch
